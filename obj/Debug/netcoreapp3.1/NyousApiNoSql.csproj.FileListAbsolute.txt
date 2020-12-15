@@ -1,0 +1,5 @@
+C:\Users\muril\source\repos\NyousApiNoSql\obj\Debug\netcoreapp3.1\NyousApiNoSql.csprojAssemblyReference.cache
+C:\Users\muril\source\repos\NyousApiNoSql\obj\Debug\netcoreapp3.1\NyousApiNoSql.AssemblyInfoInputs.cache
+C:\Users\muril\source\repos\NyousApiNoSql\obj\Debug\netcoreapp3.1\NyousApiNoSql.AssemblyInfo.cs
+C:\Users\muril\source\repos\NyousApiNoSql\obj\Debug\netcoreapp3.1\NyousApiNoSql.csproj.CoreCompileInputs.cache
+C:\Users\muril\source\repos\NyousApiNoSql\obj\Debug\netcoreapp3.1\NyousApiNoSql.MvcApplicationPartsAssemblyInfo.cache
